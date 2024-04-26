@@ -1,0 +1,80 @@
+.home-img {
+
+    border-radius: 50px;
+    max-width: 100%; /* Ensure the image doesn't exceed its parent container's width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; 
+
+   animation: fadeIn 12s;
+  -webkit-animation: fadeIn 12s;
+  -moz-animation: fadeIn 12s;
+  -o-animation: fadeIn 12s;
+  -ms-animation: fadeIn 12s;
+
+
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-o-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+
+.first-header{
+
+    display:flex;
+
+
+}
+
+.text-list{
+
+    display: flex;
+    text-align: center; 
+
+
+}
+
+.list{
+
+    display:block;
+    height: auto;
+
+}
+
+
+.second-header{
+
+    display: flex;
+
+}
+
+
+.what{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+

@@ -1,0 +1,36 @@
+.navbar {
+    
+    top: 0;
+    left: 0;
+    width: 100%; /* Take full width of the viewport */
+    justify-content: space-around;
+    border-radius: 20px;
+    background-color: blue;
+    color: #fff;
+    padding: 20px 0;
+    z-index: 1000; /* Ensure it's above other content */
+  }
+  
+  .navbar nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .navbar nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .navbar nav ul li a:hover {
+    background-color: #555;
+  }
+  
