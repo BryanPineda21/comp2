@@ -1,30 +1,22 @@
-# Project 6 - *TranslateMe App*
+# MULTIMODAL PROJECT - *Racial Disparities website*
 
 Submitted by: **Bryan Pineda**
 
-**TranslateMe** is an app that ... [Allows Users to translate any words to a different language by selecting the language they would like to translate to. Also being able to view their history of previous results, which they can clear up with a delete button.] 
+**Racial Disparities** is an website that ... [Allows Users to understand the obstacles people of color face in the legal system and know how to advocate for this issue.] 
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users open the app to a TranslationMe home page with a place to enter a word, phrase or sentence, a button to translate, and another field that should initially be empty
-- [x] When users tap translate, the word written in the upper field translates in the lower field. The requirement is only that you can translate from one language to another.
-- [x] A history of translations can be stored (in a scroll view in the same screen, or a new screen)
-- [x] The history of translations can be erased
+- [x] Users are allowed to see a navigation bar and see content regarding racial disparities.
+
  
 The following **optional** features are implemented:
 
-- [x] Add a variety of choices for the languages
-- [ ] Add UI flair
+- [x] A typewriter effect for text
 
-The following **additional** features are implemented:
-
-- [x] List anything else that you can get done to improve the app functionality!
-- [x] The history of translations can be erased individually
-- [x] Users can select different languages with a drop down feature
 
 ## Video Walkthrough
 
@@ -37,10 +29,9 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the website.
 
-- A challenge was getting the user input to translate correctly
-- Another challenge was getting the delete button to function properly
+- A challenge was gettng the typewriter style to work properly while not causing any issues to the website.
 
 ## License
 
