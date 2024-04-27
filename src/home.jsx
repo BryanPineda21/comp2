@@ -131,7 +131,7 @@ const HomePage = () =>{
         src="https://www.aristotle.com/wp-content/uploads/2022/05/pexels-markus-spiske-2990644.jpg" 
         />
 
-        /* mage from: www.aristotle.com */
+        /* Image from: www.aristotle.com */
 
             
         <h2 className="second-header">What can we do to solve this issue?</h2>
