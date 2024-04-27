@@ -12,6 +12,8 @@ The following **required** functionality is completed:
 
 - [x] Users are allowed to see a navigation bar and see content regarding racial disparities.
 
+
+
  
 The following **optional** features are implemented:
 
@@ -27,7 +29,7 @@ The following **optional** features are implemented:
     </a>
   </div>
 
-
+# Images from: https://www.judges.org and 
 
 ## Notes
 
