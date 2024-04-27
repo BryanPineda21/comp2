@@ -29,7 +29,7 @@ The following **optional** features are implemented:
     </a>
   </div>
 
-# Images from: https://www.judges.org and 
+### Images from: https://www.judges.org and https://www.aristotle.com 
 
 ## Notes
 
